@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/fragmentHome"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="Home" />
+    <item
+        android:id="@+id/fragmentContacts"
+        android:icon="@drawable/ic_contacts"
+        android:title="Contacts" />
+    <item
+        android:id="@+id/fragmentNews"
+        android:icon="@drawable/ic_baseline_dashboard_24"
+        android:title="My Posts" />
+    <item
+        android:id="@+id/fragmentAbout"
+        android:icon="@drawable/ic_baseline_account_circle_24"
+        android:title="Me" />
+
+</menu>
